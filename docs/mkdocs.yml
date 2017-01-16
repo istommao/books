@@ -1,0 +1,18 @@
+site_name: Books
+theme_dir: mkdocs_theme/owl
+theme: null
+
+pages:
+  - 操作系统: index.md
+  - 系统架构: system_architecture.md
+  - 计算机网络: network.md
+  - 数据库: database.md
+  - DevOps: devops.md
+  - C语言: clang.md
+  - 敏捷开发: agile.md
+  - Python相关: python.md
+  - 数据结构与算法: data_structure_algorithm.md
+  - 测试: test.md
+  - 机器学习/自然语言: machine_learning.md
+  - 其他计算书籍: others.md
+  - 非计算机类: non-technical.md
