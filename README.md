@@ -1,7 +1,6 @@
-# books
-my book list
+# 编程猫的书屋
 
-[website](http://books.codingcat.top/)
+[website](https://istommao.github.io/books/)
 
 ## 操作系统
 - 现代操作系统
@@ -20,7 +19,9 @@ my book list
 - 企业应用架构模式
 
 ## 计算机网络
+
 - HTTP权威指南
+- 计算机网络（第6版）自顶向下方法
 - TCP/IP 详解  | 三卷
 
 ## 数据库相关

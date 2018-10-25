@@ -1,0 +1,37 @@
+{
+    "title": "book list",
+    "description": "book list",
+    "language": "zh-hans",
+    "plugins": [
+        "github",
+        "prism",
+        "sitemap",
+        "toc2",
+        "expandable-chapters",
+        "page-toc-button",
+        "back-to-top-button"
+    ],
+    "pluginsConfig": {
+        "github": {
+          "url": "https://github.com/istommao/books"
+        },
+        "sitemap": {
+            "hostname": "https://istommao.github.io/books/"
+        },
+        "prism": {
+            "lang": {
+                "console": "bash",
+                "shell": "bash",
+                "clang": "c"
+            },
+            "css": [
+              "prismjs/themes/prism-okaidia.css"
+            ]
+        },
+        "toc2": {
+            "addClass": true,
+            "className": "toc"
+        },
+        "expandable-chapters":{}
+    }
+}
